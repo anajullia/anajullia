@@ -9,7 +9,7 @@
  <br><br><br><br><br><br>
 
 <div style="display: inline-block; align: right"><br><br>
-    <img align="right" alt="Ana" height="180" style="border-radius:50px; padding: 2000px;" src="https://avatars.githubusercontent.com/u/105755016?v=4">
+    <img align="right" alt="Ana" height="160" style="border-radius:50px; padding: 2000px;" src="https://avatars.githubusercontent.com/u/105755016?v=4">
   </div>
   
   ## Oi! Eu sou a Ana 👋🏽
