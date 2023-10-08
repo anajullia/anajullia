@@ -14,7 +14,7 @@
   
   ## Oi! Eu sou a Ana 👋🏽
   
-  <p align="left"> Tudo bem? Meu nome é Ana Jullia e atualmente eu curso Técnico em desenvolvimento de Sistemas!<br> Tenho conhecimento da stack front-end para web (HTML, CSS e Javascript) e e atualmente estudo DBL e C#</p>
+  <p align="left"> Tudo bem? Meu nome é Ana Jullia e atualmente eu curso Técnico em desenvolvimento de Sistemas!<br> Tenho conhecimento da stack front-end para web (HTML, CSS) + Jquery básico, e atualmente estudo SQL, C#, React Native e PHP</p>
   
  ## 🛠 Tech Stack
  
