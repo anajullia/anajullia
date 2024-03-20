@@ -29,7 +29,7 @@
 </div>
   <br>
  
-</div>
 ## 🛠 Habilidades 
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anajullia&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" width="540" alt="activity-graph graph"  />
 ###
