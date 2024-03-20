@@ -1,12 +1,3 @@
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anajullia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anajullia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="300" src="https://avatars.githubusercontent.com/u/105755016?s=400&u=28608cfa330fcb14d1dc8a8d458e8cd401a895ac&v=4"  />
@@ -33,6 +24,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/anajullia/anajullia/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anajullia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anajullia&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
+</div>
 
 ###
