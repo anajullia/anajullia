@@ -6,7 +6,7 @@
 
 ###
 **<p align="left" font-weight="bold" font-size="80">Tudo bem? Meu nome é Ana e atualmente eu curso Técnico em desenvolvimento de Sistemas!</p>**
-**<span style="font-size:10em;">Text goes here</span>**
+**<span style="font-size:40em;">Tudo bem? Meu nome é Ana e atualmente eu curso Técnico em desenvolvimento de Sistemas!</span>**
 
 <div align="left" float="left" position="relative">
   <div align="left">
