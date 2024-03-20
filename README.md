@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   </div>
 </div>
-
+<br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anajullia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   </div>
