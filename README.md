@@ -1,6 +1,6 @@
 ###
 
-<p align="center">Tudo bem? Meu nome é Ana e atualmente eu curso Técnico em desenvolvimento de Sistemas!<br>Tenho conhecimento da stack front-end para web (HTML, CSS) + Jquery, e atualmente estudo SQL, C#, React Native e PHP.</p>
+## <p align="center">Tudo bem? Meu nome é Ana e atualmente eu curso Técnico em desenvolvimento de Sistemas!<br>Tenho conhecimento da stack front-end para web (HTML, CSS) + Jquery, e atualmente estudo SQL, C#, React Native e PHP.</p>
 
 ###
 
