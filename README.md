@@ -1,10 +1,11 @@
-### 👋🏽
+### 
+
+# 👋🏽
  
 <img align="right" float="right" height="300" margin-top="50px" src="https://avatars.githubusercontent.com/u/105755016?s=400&u=28608cfa330fcb14d1dc8a8d458e8cd401a895ac&v=4"  />
 
 ###
 
-<p align="left">Tudo bem? Meu nome é Ana e atualmente eu curso Técnico em desenvolvimento de Sistemas!<br>Tenho conhecimento da stack front-end para web (HTML, CSS) + Jquery, e atualmente estudo SQL, C#, React Native e PHP.</p>
 
 ###
 
@@ -26,6 +27,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anajullia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   </div>
+  <p align="left">Tudo bem? Meu nome é Ana e atualmente eu curso Técnico em desenvolvimento de Sistemas!<br>Tenho conhecimento da stack front-end para web (HTML, CSS) + Jquery, e atualmente estudo SQL, C#, React Native e PHP.</p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anajullia&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
