@@ -7,8 +7,6 @@
 ###
 ## <p align="left">Tudo bem? Meu nome é Ana e atualmente eu curso Técnico em desenvolvimento de Sistemas!</p>
 
-###
-
 <div align="left" float="left" position="relative">
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
