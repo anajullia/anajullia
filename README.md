@@ -12,8 +12,9 @@
 <br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anajullia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anajullia&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" width="540" alt="activity-graph graph"  />
   </div>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=anajullia&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" width="540" alt="activity-graph graph"  />
+
  
 ## 🛠 Habilidades 
 
