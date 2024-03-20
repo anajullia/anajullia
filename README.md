@@ -1,24 +1,38 @@
-<div>
-    <img align="left" style:"display: inline-block" height="170em" src="https://github-readme-stats.vercel.app/api?username=anajullia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   </div>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-   <div>
-    <img align="right"  style:"display: inline-block" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajullia&layout=compact&langs_count=7&theme=dracula">
-   </div>
-  </div>
- <br><br><br><br><br><br>
+###
 
-<div style="display: inline-block; align: right"><br><br>
-    <img align="right" alt="Ana" height="160" style="border-radius:50px; padding: 2000px;" src="https://avatars.githubusercontent.com/u/105755016?v=4">
-  </div>
-  
-  ## Oi! Eu sou a Ana 👋🏽
-  
-  <p align="left"> Tudo bem? Meu nome é Ana Jullia e atualmente eu curso Técnico em desenvolvimento de Sistemas!<br> Tenho conhecimento da stack front-end para web (HTML, CSS) + Jquery básico, e atualmente estudo SQL, C#, React Native e PHP</p>
-  
- ## 🛠 Tech Stack
- 
-<div>
-      <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="display: inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img style="display: inline-block"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img style="display: inline-block"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img style="display: inline-block"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img style="display: inline-block"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> </a><a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank" rel="noreferrer"><img style="display: inline-block"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql" width="50" height="50"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anajullia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anajullia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
- 
+
+###
+
+<img align="right" height="300" src="https://avatars.githubusercontent.com/u/105755016?s=400&u=28608cfa330fcb14d1dc8a8d458e8cd401a895ac&v=4"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<p align="left">Tudo bem? Meu nome é Ana e atualmente eu curso Técnico em desenvolvimento de Sistemas!<br>Tenho conhecimento da stack front-end para web (HTML, CSS) + Jquery, e atualmente estudo SQL, C#, React Native e PHP.</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/anajullia/anajullia/output/snake.svg" alt="Snake animation" />
+
+###
