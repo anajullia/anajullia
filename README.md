@@ -7,7 +7,12 @@
 ###
 **<span style="font-size:70;">Tudo bem? Meu nome é Ana e atualmente eu curso Técnico em desenvolvimento de Sistemas!</span>**
 
-<div align="left" float="left" position="relative">
+
+  
+<br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anajullia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  </div>
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -20,12 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  </div>
 </div>
-<br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anajullia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  </div>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anajullia&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" width="540" alt="activity-graph graph"  />
 </div>
