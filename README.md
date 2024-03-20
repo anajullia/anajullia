@@ -4,6 +4,10 @@
 
 ###
 
+<p align="left">Tudo bem? Meu nome é Ana e atualmente eu curso Técnico em desenvolvimento de Sistemas!<br>Tenho conhecimento da stack front-end para web (HTML, CSS) + Jquery, e atualmente estudo SQL, C#, React Native e PHP.</p>
+
+###
+
 <div align="left" float="left" width="700px">
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -18,12 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<p align="left">Tudo bem? Meu nome é Ana e atualmente eu curso Técnico em desenvolvimento de Sistemas!<br>Tenho conhecimento da stack front-end para web (HTML, CSS) + Jquery, e atualmente estudo SQL, C#, React Native e PHP.</p>
-
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anajullia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
