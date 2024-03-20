@@ -27,9 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anajullia&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" width="540" alt="activity-graph graph"  />
+  <br>
+ 
 </div>
-
-
+## 🛠 Habilidades 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anajullia&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" width="540" alt="activity-graph graph"  />
 ###
